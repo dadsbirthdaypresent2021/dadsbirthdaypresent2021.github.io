@@ -41,8 +41,8 @@ window.onload = function(e) {
 	        "Taking us on wonderful trips", "Always looking for things for us to improve our lives", "Teaching us to look at things with a critical eye", 
 	        "Especially helping us read through boring contracts for work and study clash", "Refilling my humidifier when I forget", 
 	        "Working hard and putting up with a job you don’t always like to make our lives better", "Driving us places, especially in a rush", "Going over legalese with us",
-                "Helping us write and read contracts", "Helping the family get out of parking tickets", "Finding the best deals", "Finding the best products on wirecutter/consumer reports",
-                "Notifying us of deals like the orthotics and Coway air cleaner", "Thinking about ways to improve our health"]		
+                "Helping us write contracts", "Helping the family get out of parking tickets", "Finding the best deals", "Finding the best products on wirecutter/consumer reports",
+                "Notifying us of deals like the orthotics and Coway air cleaner", "Thinking about ways to improve our health", "Giving us the hard truth when we need it"]		
 	    const birthday = new Date('01/17/2021');
 	    const diffTime = Math.abs(birthday - today);
 	    var diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
