@@ -40,8 +40,9 @@ window.onload = function(e) {
 	        "Never giving up on me, even when things were really bad", "Chatting on our early morning and nighttime commutes", "Keeping tabs on the orthotics for me", 
 	        "Taking us on wonderful trips", "Always looking for things for us to improve our lives", "Teaching us to look at things with a critical eye", 
 	        "Especially helping us read through boring contracts for work and study clash", "Refilling my humidifier when I forget", 
-	        "Working hard and putting up with a job you don’t always like to make our lives better"]
-		
+	        "Working hard and putting up with a job you don’t always like to make our lives better", "Driving us places, especially in a rush", "Going over legalese with us",
+                "Helping us write and read contracts", "Helping the family get out of parking tickets", "Finding the best deals", "Finding the best products on wirecutter/consumer reports",
+                "Notifying us of deals like the orthotics and Coway air cleaner", "Thinking about ways to improve our health"]		
 	    const birthday = new Date('01/17/2021');
 	    const diffTime = Math.abs(birthday - today);
 	    var diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
