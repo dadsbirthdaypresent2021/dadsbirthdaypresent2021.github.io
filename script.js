@@ -39,7 +39,7 @@ window.onload = function(e) {
 	        "Teaching me about boxing history", "Giving us a British perspective on life instead of just an American one", "Caring about our futures", 
 	        "Never giving up on me, even when things were really bad", "Chatting on our early morning and nighttime commutes", "Keeping tabs on the orthotics for me", 
 	        "Taking us on wonderful trips", "Always looking for things for us to improve our lives", "Teaching us to look at things with a critical eye", 
-	        "Especially helping us read through boring contracts for work and study clash", "Refilling my humidifier when I forget", 
+	        "Especially helping us read through boring contracts for work and study clash", "Refilling my humidifier when I forget", "The way you say raspberries",
 	        "Working hard and putting up with a job you don’t always like to make our lives better", "Driving us places, especially in a rush", "Going over legalese with us",
                 "Helping us write contracts", "Helping the family get out of parking tickets", "Finding the best deals", "Finding the best products on wirecutter/consumer reports",
                 "Notifying us of deals like the orthotics and Coway air cleaner", "Thinking about ways to improve our health", "Giving us the hard truth when we need it"]		
